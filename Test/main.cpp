@@ -2,6 +2,7 @@
 
 using namespace std;
 
+//Главная функция
 int main() {
 
 	cout << "Test";
