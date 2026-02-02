@@ -1,8 +1,8 @@
- #include <iostream>
+п»ї #include <iostream>
 
 using namespace std;
 
-//Главная функция
+//Р“Р»Р°РІРЅР°СЏ С„СѓРЅРєС†РёСЏ
 int main() {
 
 	cout << "Test";
